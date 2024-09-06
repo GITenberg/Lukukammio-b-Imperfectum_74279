@@ -1,0 +1,42 @@
+_repo: Lukukammio-b-Imperfectum_74279
+_version: 0.0.1
+alternative_title: Imperfektum. Finnish
+contributor:
+  translator:
+    agent_name: Penttilä, Aarni
+    alias: Penttila, Aarni
+    birthdate: 1899
+    deathdate: 1971
+    gutenberg_agent_id: '57421'
+    url: http://www.gutenberg.org/2009/agents/57421
+    wikipedia: https://fi.wikipedia.org/wiki/Aarni_Penttil%C3%A4
+creator:
+  author:
+    agent_name: Josephson, Ragnar
+    birthdate: 1891
+    deathdate: 1966
+    gutenberg_agent_id: '57420'
+    url: http://www.gutenberg.org/2009/agents/57420
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ragnar_Josephson
+    - https://sv.wikipedia.org/wiki/Ragnar_Josephson
+description: ''
+gutenberg_issued: '2024-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74279'
+language: fi
+pgterms:marc905: 20240625012227josephson
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Lukukammio : $b (Imperfectum)'
+url: http://www.gutenberg.org/ebooks/74279
